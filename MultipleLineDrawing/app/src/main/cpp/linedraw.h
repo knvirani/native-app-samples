@@ -1,6 +1,14 @@
 //
 // Created by kunjeshvirani on 13/2/17.
+// On the platform Linux (Ubuntu Xenial Xerus) 64bit
 //
+
+/** Description
+*   This file is about to declarations of various functions defined customly.
+*   This file is header file of cpluscplus that also contain information about vertices and colors.
+*/
+
+
 #include <GLES/gl.h>
 #ifndef ASSETSLEARN_LINEDRAW_H
 #define ASSETSLEARN_LINEDRAW_H
