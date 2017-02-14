@@ -1,6 +1,12 @@
 //
 // Created by kunjesh virani on 13/2/17.
+// On the platform Linux (Ubuntu Xenial Xerus) 64bit
 //
+
+/** Description
+*   This file contains c++ code of customly defined function that is declared in the header "linedraw.hpp".
+*   Functions of this file will draw a single line accordingly to given instructions in c++.
+*/
 
 #include "linedraw.h"
 
