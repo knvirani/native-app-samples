@@ -1,6 +1,13 @@
 //
-// Created by kunjeshvirani on 13/2/17.
+// Created by kunjesh virani on 13/2/17.
+// On the platform Linux (Ubuntu Xenial Xerus) 64bit
 //
+
+
+/** Description
+*   This file is about to definitions of customly declared functions in header "linedraw.hpp"
+*   This file contains various functions that can able to draw a multiple line according to given instructions in c++.
+*/
 
 #include "linedraw.h"
 
