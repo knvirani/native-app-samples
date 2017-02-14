@@ -1,5 +1,5 @@
 //
-// Created by kunjeshvirani on 13/2/17.
+// Created by kunjesh virani on 13/2/17.
 //
 #include <GLES/gl.h>
 #ifndef ASSETSLEARN_LINEDRAW_H
