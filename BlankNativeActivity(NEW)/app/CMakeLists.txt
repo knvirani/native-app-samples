@@ -1,5 +1,5 @@
 
-####### CMake script by kunjesh virani
+####### CMake script by kv
 ####### Created on 7 february, 2017
 
 cmake_minimum_required(VERSION 3.4.1)
