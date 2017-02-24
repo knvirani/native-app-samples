@@ -7,9 +7,6 @@ This sample contain codes for drawing a single line via C++ and OpenGL ES. This 
 This sample is contains code that able to perform drawing on android device API 15 and above. 
 It will show one colored line which will be drawn on the android screen via combination of C++ and OpenGL ES v2.0.
 
-## Preview
-![screenshot](sc_nativeactivity.png)
-
 ##Pre-requisites
 - Android Studio 2.2+ with [NDK](https://developer.android.com/ndk/) bundle.
 
