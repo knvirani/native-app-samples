@@ -1,3 +1,5 @@
+![screenshot](14149185.jpg)
+
 # Native-Apps
 This sample contain codes for simplest blank native activity using c++ code.
 
