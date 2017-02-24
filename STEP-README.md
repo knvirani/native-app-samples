@@ -1,1 +1,1 @@
-<h4>Follow below steps for develop app in c++</h4>
+<h4>follow samples accordingly below numbers to develop android apps in using c++</h4>
