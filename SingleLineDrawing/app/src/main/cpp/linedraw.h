@@ -1,6 +1,10 @@
 //
-// Created by kunjesh virani on 13/2/17.
+// Created by KV on 13/2/17.
+// On the Platfrom Linux (Ubuntu Xenial xerus) 64bit
 //
+// hellowwoor@gmail.com
+//
+
 #include <GLES/gl.h>
 #ifndef ASSETSLEARN_LINEDRAW_H
 #define ASSETSLEARN_LINEDRAW_H
