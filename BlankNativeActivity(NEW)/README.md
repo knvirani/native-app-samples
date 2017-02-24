@@ -1,6 +1,5 @@
 # Native-Apps
-<<<<<<< HEAD
-This repository contain android application sample developed using native development kit
-=======
-This repository contains native apps samples
->>>>>>> 47a58bb3b351f6e2e714f408801782ed80b34ddd
+This sample contain codes for simplest blank native activity using c++ code.
+
+## Description
+This sample is contains code that able to perform native activity on android device API 15 and above. It will show only blank screen when you will run this.
