@@ -1,7 +1,7 @@
 <h4>follow samples accordingly below numbers to develop android apps using c++</h4>
-<ul>
-<li>Blank Native Activity</li>
-<li>Colored Native Activity</li>
-<li>Single Line Drawing</li>
-<li>Multiple Line Drawing</li>
-</ul>
+<ol>
+<li><h5>Blank Native Activity</h5></li>
+<li><h5>Colored Native Activity</h5></li>
+<li><h5>Single Line Drawing</h5></li>
+<li><h5>Multiple Line Drawing</h5></li>
+</ol>
