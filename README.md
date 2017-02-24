@@ -1,3 +1,7 @@
+
+
+![screenshot](14149185.jpg)
+
 # Native-App-Samples
 This repository contains Native Apps samples with Android Studio C++ integration.
 
