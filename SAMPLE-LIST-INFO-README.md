@@ -1,7 +1,7 @@
 
 
 <h4>follow samples accordingly below numbers to develop android apps using c++</h4>
-<div style="color:forestgreen;font-weight:500;font-size:14px;">
+<div style="color:green;font-weight:500;font-size:14px;">
 <ol>
 <li>Blank native activity</li>
 <label style="font-weight:500;
