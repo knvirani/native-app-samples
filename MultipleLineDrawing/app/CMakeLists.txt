@@ -1,5 +1,5 @@
 
-####### CMake script by kv
+####### CMake build script by KV
 ####### Created on 13 february, 2017
 
 cmake_minimum_required(VERSION 3.4.1)
