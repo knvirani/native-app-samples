@@ -6,13 +6,15 @@
 <li>Blank native activity</li>
 <label style="font-weight:500;
 font-size:10px;
-color:black;">&nbsp;--&nbsp;Sample about to simple native activity that showing only blank screen using C++.</label>
+color:black;">&nbsp;--&nbsp;Sample about to simple native activity that showing only blank screen.</label>
 <li>Colored native activity</li><label style="font-weight:500;
 font-size:10px;
-color:black;">&nbsp;--&nbsp;Sample about to showing colored screen via native activity using C++.</label>
+color:black;">&nbsp;--&nbsp;Sample about to showing colored screen via native activity.</label>
 <li>Single line drawing</li><label style="font-weight:500;
 font-size:10px;
-color:black;">&nbsp;--&nbsp;Sample about to drawing a single line via OpenGL ES using C++.</label>
-<li>Multiple line drawing</li>
+color:black;">&nbsp;--&nbsp;Sample about to drawing a single line via OpenGL ES 1.0/2.0.</label>
+<li>Multiple line drawing</li><label style="font-weight:500;
+font-size:10px;
+color:black;">&nbsp;--&nbsp;Sample about to drawing a multiple line via OpenGL ES 1.0/2.0.</label>
 </ol>
 </div>
