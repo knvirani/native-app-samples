@@ -1,5 +1,6 @@
 //
-// Created by kunjeshvirani on 27/2/17.
+// Created by KV on 27 february, 2017.
+// On the platfrom Linux (Ubuntu Xenial xerus) 64Bit
 //
 
 #ifndef BLANKNATIVEACTIVITY_NEW_HANDLE_COMMAND_H
