@@ -1,5 +1,8 @@
 //
-// Created by kunjeshvirani on 27/2/17.
+// Created by KV on 26 february, 2017.
+// On the platform Linux (Ubuntu Xenial xerus) 64Bit
+//
+// hellowwoor@gmail.com
 //
 
 #include "handle_command.h"
