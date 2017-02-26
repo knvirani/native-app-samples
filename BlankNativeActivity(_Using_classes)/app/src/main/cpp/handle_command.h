@@ -2,6 +2,8 @@
 // Created by KV on 27 february, 2017.
 // On the platfrom Linux (Ubuntu Xenial xerus) 64Bit
 //
+// hellowwoor@gmail.com
+//
 
 #ifndef BLANKNATIVEACTIVITY_NEW_HANDLE_COMMAND_H
 #define BLANKNATIVEACTIVITY_NEW_HANDLE_COMMAND_H
