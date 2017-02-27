@@ -1,5 +1,8 @@
 //
-// Created by kunjeshvirani on 26/2/17.
+// Created by KV on 27 february, 2017.
+// On the platform Linux (Ubuntu Xenial xerus) 64Bit
+//
+// hellowwoor@gmail.com
 //
 
 #include "input_event.h"
