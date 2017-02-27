@@ -1,5 +1,8 @@
 //
-// Created by kunjeshvirani on 26/2/17.
+// Created by kunjeshvirani on 27 february, 2017.
+// On the platfrom Linux (Ubuntu Xenial xerus) 64Bit
+//
+// hellowwoor@gmail.com
 //
 
 #include "event_loop.h"
