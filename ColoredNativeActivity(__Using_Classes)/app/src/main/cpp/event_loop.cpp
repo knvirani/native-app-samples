@@ -1,5 +1,5 @@
 //
-// Created by kunjeshvirani on 27 february, 2017.
+// Created by KV on 27 february, 2017.
 // On the platfrom Linux (Ubuntu Xenial xerus) 64Bit
 //
 // hellowwoor@gmail.com
@@ -15,7 +15,7 @@
 /*
  * In the below data we are first initializing constructor and after that we are passing the data to the private member.
  * by doing this when a member function or variable will be called the data will be automatically initialized before the process of
- * the member function starts, this is the high importance of object oriented programming.
+ * the member function starts, this is the greatest feature of object oriented programming.
  *
  * Using a class type syntax or class type coding structure make a program more easy to understand and easy to debug.
  * Sometime writing all programming code in only one file make somewhat hard for understanding.
