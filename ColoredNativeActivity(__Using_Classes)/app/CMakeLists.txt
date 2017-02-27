@@ -1,6 +1,6 @@
 
-####### CMake script by kunjesh virani
-####### Created on 7 february, 2017
+####### CMake Build script by KV
+####### Created on 27 february, 2017
 
 cmake_minimum_required(VERSION 3.4.1)
 set(NDK_SRCS ${ANDROID_NDK}/sources/android/native_app_glue/android_native_app_glue.c)
